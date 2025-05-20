@@ -1,4 +1,4 @@
-<h2 align="left">Oi!Me chamo Looh, uma dev em construção que acredita no poder em transformar o mundo com código✨ </h2>
+<h2 align="left">Oi! Me chamo Looh, uma dev em construção que acredita no poder em transformar o mundo com código✨ </h2>
 
 ###
 
