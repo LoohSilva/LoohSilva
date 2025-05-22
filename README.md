@@ -4,15 +4,13 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
 #
 
 <p align="center">Estudante de Ciência da Computação, apaixonada por Front-End e em jornada para me tornar uma Full Stack Developer.</p>
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="https://github.com/mari4souza/mari4souza/blob/main/src/study.gif?raw=true">
 
 <h3 align="left">Bora se conectar?</h3>
 
@@ -27,7 +25,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo" />
   </a>
 </div>
-
 
 <h3 align="left">Tecnologias ~</h3>
 
